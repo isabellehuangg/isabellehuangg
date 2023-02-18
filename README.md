@@ -3,7 +3,7 @@
 <h3><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://isabellehuangg.me">Isabelle Huang</a></b>. ヾ(＾∇＾)</samp></h3>
 <p>
     <samp>
-      1B Computer Engineering Student @ <b>uWaterloo 🦆</b>
+      1B Computer Engineering Student at the University of Waterloo 🦆
     </samp>
 </p>
 
