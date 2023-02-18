@@ -10,7 +10,7 @@
 <details align="center">
    <summary> <samp>&nbsp;Details</samp></summary>
    <samp>
-     Here are some other ways to reach me: <a href="https://www.instagram.com/isabellehuangg/">Instagram</a>, <a href="mailto:isabelle.huang@uwaterloo.com">Email</a>, <a href = "https://discordapp.com/users/344253205598961665">Discord</a> ♪～(￣、￣ )
+     Here are some other ways to reach me: <a href="https://www.instagram.com/isabellehuangg/" target="_blank">Instagram</a>, <a href="mailto:isabelle.huang@uwaterloo.com" target="_blank">Email</a>, <a href = "https://discordapp.com/users/344253205598961665" target="_blank">Discord</a> ♪～(￣、￣ )
   </samp>
 </details>
 
