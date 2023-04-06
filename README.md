@@ -8,9 +8,10 @@
 </p>
 
 <details align="center">
-   <summary> <samp>&nbsp;Let's Connect!</samp></summary>
+   <summary> <samp>&nbsp;More info:</samp></summary>
    <samp>
-     Here are some other ways to reach me: <a href="https://www.instagram.com/isabellehuangg/">Instagram</a>, <a href="mailto:isabelle.huang@uwaterloo.com">Email</a>, <a href = "https://discordapp.com/users/344253205598961665">Discord</a> ♪～(￣、￣ )
+     Incoming Software Tester at <a href = "https://nicoyalife.com/">Nicoya </a> <br />
+     Some other ways to reach me: <a href="https://www.instagram.com/isabellehuangg/">Instagram</a>, <a href="mailto:isabelle.huang@uwaterloo.com">Email</a>, <a href = "https://discordapp.com/users/344253205598961665">Discord</a> ♪～(￣、￣ )
   </samp>
 </details>
 
