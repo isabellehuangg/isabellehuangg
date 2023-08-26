@@ -1,6 +1,6 @@
 <div align="center">
   
-<h3><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://isabellehuangg.me">Isabelle Huang</a></b>.</samp></h3>
+<h3><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://isabellehuang.ca">Isabelle Huang</a></b>.</samp></h3>
 <p>
     <samp>
       2nd year Computer Engineering Student at the University of Waterloo 🦆
