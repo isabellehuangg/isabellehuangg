@@ -10,7 +10,6 @@
 <details align="left">
    <summary> <samp>&nbsp;More info:</samp></summary>
    <samp>
-     <li>Seeking Winter 2024 Co-op opportunities</li>
-     <li>Some other ways to reach me: <a href="https://www.instagram.com/isabellehuangg/">Instagram</a>, <a href="mailto:isabelle.huang@uwaterloo.com">Email</a>, <a href = "https://discordapp.com/users/344253205598961665">Discord</a> ♪～(￣、￣ )</li>
+     Some other ways to reach me: <a href="https://www.instagram.com/isabellehuangg/">Instagram</a>, <a href="mailto:isabelle.huang@uwaterloo.com">Email</a>, <a href = "https://discordapp.com/users/344253205598961665">Discord</a> ♪～(￣、￣ )
   </samp>
 </details>
