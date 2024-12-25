@@ -1,6 +1,7 @@
-<samp> 
-<h3>hey, i'm isabelle! (●'◡'●)<br /></h3>
-3rd year comp eng @ waterloo. <br />
-vehicle platform: interfacing @ WATO, swd @ ford. <br />
-looking for s25 internship opportunities !
-</samp>
+hey, i'm isabelle :] <br/>
+
+3rd year computer engineering at the university of waterloo <br/>
+
+prev software dev @ ford (middleware & ui for android infotainment) <br/>
+
+interested in s25 internship opportunities <br/>
