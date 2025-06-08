@@ -1,7 +1,7 @@
-hey, i'm isabelle :] <br/>
+### hey, i'm isabelle :] <br/>
 
-3rd year computer engineering at the university of waterloo <br/>
+i'm a 3rd year computer engineering at the university of waterloo, <br/>
 
-prev software dev @ ford (middleware & ui for android infotainment) & miovision (full-stack)<br/>
+currently @ autodesk as an intern on the graphics team <br/>
 
-interested in 2025 internship & research opportunities <br/>
+interested in 2025/2026 internship & research opportunities <br/>
