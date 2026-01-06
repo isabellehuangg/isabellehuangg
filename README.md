@@ -1,6 +1,6 @@
 ### hey, i'm isabelle :] <br/>
 
-i'm a 3rd year computer engineering at the university of waterloo <br/>
+i'm a 4th year ( ꩜ ‸ ꩜;)⁭ computer engineering at the university of waterloo <br/>
 
 currently a project developer @ uw blueprint, working on internal recruitment processes <br/>
 
